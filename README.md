@@ -1,10 +1,3 @@
 Урок 2
 
-Створити репозиторій з назвою hillel-java-pro-git
-Створити 2 коміти (вміст на свій розсуд) в основній гілці
-Запушити коміти з основної гілки в віддалений репозиторій
-Створити гілку feature/some-feature
-Створити коміт (вміст на свій розсуд) в гілці feature/some-feature
-Запушити гілку feature/some-feature в віддалений репозиторій
-Створити pull request з гілки feature/some-feature в основну гілку
-Прийняти pull request
+Ветка feature/some-feature
